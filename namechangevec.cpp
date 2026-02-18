@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    string name;;
+    string name;
    
     vector<string> names={"sumit", "vaibhav", "vaishnavi"};
     names[1]="adii";
